@@ -4,25 +4,131 @@
 
 # 👋 Olá
 
-### 💻 Lonely Developer • Electron • TypeScript • Node.js • C++ • C#
+### 💻 Solo Developer • Electron • TypeScript • Node.js • C++ • C#
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Desktop+Apps+with+Electron.;Discord+Bots+%26+Automation.;Always+Learning+New+Things." />
 </p>
+
+</div>
+
+---
 
 ## 🏄‍♂️ Prazer, me chamo Christian
 
 > **Saiba mais sobre mim abaixo!**
 
 <details>
-<summary>&nbsp;<b>👩‍💻 Gosto de fazer novas amizades</b></summary>
+<summary>&nbsp;<b>👨‍💻 Sobre mim</b></summary>
 <br>
 
-| Hobby | ⬇ |
+| 💡 Interesse | Descrição |
 |:--|:--|
-| `Fazer bots para servidores do Discord` | Sou conhecido pelos meus bots |
-| `Comer miojo` | Não pode faltar, né? Amo um miojinho |
-| `Ajudar os outros` | Sempre que consigo, dou o meu máximo para ajudar pessoas que precisam |
-| `Fim` | Obrigado por ler! |
+| 🤖 Fazer bots para servidores do Discord | Sou conhecido pelos meus bots e sistemas personalizados |
+| 💻 Programação | Gosto de criar aplicações, ferramentas e projetos novos |
+| 🍜 Comer miojo | Não pode faltar, né? Amo um miojinho |
+| 🤝 Ajudar os outros | Sempre que consigo, dou o meu máximo para ajudar pessoas que precisam |
+| 🚀 Aprender coisas novas | Estou sempre tentando evoluir minhas habilidades |
 
 </details>
+
+---
+
+## ⚡ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,electron,cpp,cs,html,css,git,github,vscode,mongodb,sqlite"/>
+
+</div>
+
+---
+
+## 🚀 Projetos
+
+| Projeto | Descrição |
+|:--|:--|
+| 💻 Electron Applications | Criação de aplicações desktop modernas |
+| 🤖 Discord Bots | Bots avançados usando TypeScript e Discord API |
+| ⚙️ Automation Tools | Ferramentas para automatizar tarefas |
+| 🌐 Web Projects | Desenvolvimento de projetos web |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+## 🌌 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Minha atividade
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎧 Atualmente ouvindo
+
+<div align="center">
+
+<a href="https://spotify.com">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://discord.gg/SEU_LINK">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,100:06B6D4&section=footer"/>
+
+</div>
