@@ -19,7 +19,7 @@
 > **Saiba mais sobre mim abaixo!**
 
 <details>
-<summary>&nbsp;<b>👩‍💻 Gosto de fazer novas amizades</b></summary>
+<summary>&nbsp;<b>👩‍💻 Clique aqui para ver meus hobby</b></summary>
 <br>
 
 | Hobby | ⬇ |
@@ -46,7 +46,7 @@
 > **🚀 Projetos**
 
 <details>
-<summary>&nbsp;<b>👩‍💻 Gosto de fazer novas amizades</b></summary>
+<summary>&nbsp;<b>😎 Clique para ver os meus Projetos</b></summary>
 <br>
 
 | Projeto | ⬇ |
