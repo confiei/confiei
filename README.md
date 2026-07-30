@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1530247306887303488/1532209009476636832/83177eace643e8d6b6e5e257bafb43d7.gif?ex=6a6c0456&is=6a6ab2d6&hm=d884c86a22f3ca06115eeefafd0e0e374260b3c8b320bbdf437511639467f3d3&" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7C3AED,100:06B6D4&text=Christian&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Electron%20%7C%20TypeScript%20%7C%20Node.js&descAlignY=60&descSize=20" width="100%"/>
 
 # 👋 Olá
 
@@ -19,7 +19,7 @@
 > **Saiba mais sobre mim abaixo!**
 
 <details>
-<summary>&nbsp;<b>👩‍💻 Clique aqui para ver meus hobby</b></summary>
+<summary>&nbsp;<b>👩‍💻 Clique aqui para ver meus Hobby!</b></summary>
 <br>
 
 | Hobby | ⬇ |
@@ -46,7 +46,7 @@
 > **🚀 Projetos**
 
 <details>
-<summary>&nbsp;<b>😎 Clique para ver os meus Projetos</b></summary>
+<summary>&nbsp;<b>😎 Clique para ver os meus Projetos!</b></summary>
 <br>
 
 | Projeto | ⬇ |
