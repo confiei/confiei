@@ -62,8 +62,8 @@
 
 <div align="center">
 
-<a href="https://github.com/confiei">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<a href="https://www.tiktok.com/@killtwt">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="https://discordapp.com/users/1515801193618608269">
