@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7C3AED,100:06B6D4&text=Christian&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Electron%20%7C%20TypeScript%20%7C%20Node.js&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7C3AED,100:06B6D4&text=Christian&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lonely%20Developer%20%E2%80%A2%20Electron%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20C%23&descAlignY=60&descSize=20" width="100%"/>
 
 # 👋 Olá
-
-### 💻 Lonely Developer • Electron • TypeScript • Node.js • C++ • C#
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+Christian!;Desenvolvedor+apaixonado+por+tecnologia.;Criando+projetos+com+TypeScript+e+Electron.;Transformando+ideias+em+codigo.;Sempre+aprendendo+coisas+novas." />
