@@ -43,14 +43,18 @@
 
 ---
 
-## 🚀 Projetos
+> **🚀 Projetos**
 
-| Projeto | Descrição |
+<details>
+<summary>&nbsp;<b>👩‍💻 Gosto de fazer novas amizades</b></summary>
+<br>
+
+| Projeto | ⬇ |
 |:--|:--|
-| 💻 Electron Apps | Desenvolvimento de aplicações desktop modernas |
-| 🤖 Discord Bots | Criação de bots e sistemas personalizados para servidores |
-| ⚙️ Automation Tools | Ferramentas para automatizar tarefas |
-| 🌐 Web Projects | Criação de projetos web e APIs |
+| `💻 Electron Apps` | Desenvolvimento de aplicações desktop modernas |
+| `🤖 Discord Bots` | Criação de bots e sistemas personalizados para servidores |
+| `⚙️ Automation Tools` | Ferramentas para automatizar tarefas |
+| `🌐 Web Projects` | Criação de projetos web e APIs |
 
 ---
 
