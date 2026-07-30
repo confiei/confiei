@@ -18,7 +18,7 @@
 <summary>&nbsp;<b>👩‍💻 Gosto de fazer novas amizades</b></summary>
 <br>
 
-| Hobby | Descrição |
+| Hobby | ⬇ |
 |:--|:--|
 | `Fazer bots para servidores do Discord` | Sou conhecido pelos meus bots |
 | `Comer miojo` | Não pode faltar, né? Amo um miojinho |
