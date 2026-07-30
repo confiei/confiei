@@ -4,7 +4,7 @@
 
 # 👋 Olá
 
-### 💻 Solo Developer • Electron • TypeScript • Node.js • C++ • C#
+### 💻 Lonely Developer • Electron • TypeScript • Node.js • C++ • C#
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Desktop+Apps+with+Electron.;Discord+Bots+%26+Automation.;Always+Learning+New+Things." />
@@ -19,16 +19,15 @@
 > **Saiba mais sobre mim abaixo!**
 
 <details>
-<summary>&nbsp;<b>👨‍💻 Sobre mim</b></summary>
+<summary>&nbsp;<b>👩‍💻 Gosto de fazer novas amizades</b></summary>
 <br>
 
-| 💡 Interesse | Descrição |
+| Hobby | ⬇ |
 |:--|:--|
-| 🤖 Fazer bots para servidores do Discord | Sou conhecido pelos meus bots e sistemas personalizados |
-| 💻 Programação | Gosto de criar aplicações, ferramentas e projetos novos |
-| 🍜 Comer miojo | Não pode faltar, né? Amo um miojinho |
-| 🤝 Ajudar os outros | Sempre que consigo, dou o meu máximo para ajudar pessoas que precisam |
-| 🚀 Aprender coisas novas | Estou sempre tentando evoluir minhas habilidades |
+| `Fazer bots para servidores do Discord` | Sou conhecido pelos meus bots |
+| `Comer miojo` | Não pode faltar, né? Amo um miojinho |
+| `Ajudar os outros` | Sempre que consigo, dou o meu máximo para ajudar pessoas que precisam |
+| `Fim` | Obrigado por ler! |
 
 </details>
 
@@ -48,10 +47,10 @@
 
 | Projeto | Descrição |
 |:--|:--|
-| 💻 Electron Applications | Criação de aplicações desktop modernas |
-| 🤖 Discord Bots | Bots avançados usando TypeScript e Discord API |
+| 💻 Electron Apps | Desenvolvimento de aplicações desktop modernas |
+| 🤖 Discord Bots | Criação de bots e sistemas personalizados para servidores |
 | ⚙️ Automation Tools | Ferramentas para automatizar tarefas |
-| 🌐 Web Projects | Desenvolvimento de projetos web |
+| 🌐 Web Projects | Criação de projetos web e APIs |
 
 ---
 
@@ -59,9 +58,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=confiei&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=confiei&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -71,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=confiei&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -91,19 +90,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🎧 Atualmente ouvindo
-
-<div align="center">
-
-<a href="https://spotify.com">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
-</a>
+<img src="https://raw.githubusercontent.com/confiei/confiei/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -113,11 +100,11 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="[https://github.com/confiei](https://www.tiktok.com/@killtwt)">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://discord.gg/SEU_LINK">
+<a href="[https://discord.gg/SEU_LINK](https://discordapp.com/users/1515801193618608269)">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
