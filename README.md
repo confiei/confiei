@@ -7,7 +7,7 @@
 ### 💻 Lonely Developer • Electron • TypeScript • Node.js • C++ • C#
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Desktop+Apps+with+Electron.;Discord+Bots+%26+Automation.;Always+Learning+New+Things." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Christian!;Desenvolvedor+apaixonado+por+tecnologia.;Criando+projetos+com+TypeScript+e+Electron.;Transformando+ideias+em+código.;Sempre+aprendendo+coisas+novas." />
 </p>
 
 </div>
