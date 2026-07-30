@@ -76,7 +76,7 @@
 
 <div align="center">
 
-### ⭐ Por favor, deixe uma estrela ⭐ nos meus projetos!
+###  Por favor, deixe uma estrela ⭐ nos meus projetos!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,100:06B6D4&section=footer"/>
 
