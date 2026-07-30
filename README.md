@@ -17,7 +17,7 @@
 > **Saiba mais sobre mim abaixo!**
 
 <details>
-<summary>&nbsp;<b>👩‍💻 Clique aqui para ver meus Hobby!</b></summary>
+<summary>&nbsp;<b>👩‍💻 Clique aqui para ver meus Hobbies!</b></summary>
 <br>
 
 | Hobby | ⬇ |
@@ -54,17 +54,19 @@
 | `⚙️ Automation Tools` | Ferramentas para automatizar tarefas |
 | `🌐 Web Projects` | Criação de projetos web e APIs |
 
+</details>
+
 ---
 
 ## 🌐 Onde me encontrar
 
 <div align="center">
 
-<a href="[https://github.com/confiei](https://www.tiktok.com/@killtwt)">
+<a href="https://github.com/confiei">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://discord.gg/SEU_LINK](https://discordapp.com/users/1515801193618608269)">
+<a href="https://discordapp.com/users/1515801193618608269">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
@@ -74,7 +76,7 @@
 
 <div align="center">
 
-###  Porfavor deixe uma ⭐ nos meus Projetos!
+### ⭐ Por favor, deixe uma estrela ⭐ nos meus projetos!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,100:06B6D4&section=footer"/>
 
