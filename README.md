@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-<a href="https://discordapp.com/users/1515801193618608269">
+<a href="https://discordapp.com/users/1518482819771273338">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
